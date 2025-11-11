@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vorawit Chenthulee</h1>
+<h1 align="center">Hi 👋, I'm Vorawit</h1>
 <h3 align="center">3rd year student | Aspiring Developer , Network | Experience with Python and React</h3>
 
 - 🔭 I’m currently internship on **Bridgestone sales (thailand) co., ltd.**
